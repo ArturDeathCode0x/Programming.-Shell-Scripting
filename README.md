@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="security-audit-screenshot.png" width="700">
+  <img src="security-audit-.png" width="700">
 </p>
 
 
