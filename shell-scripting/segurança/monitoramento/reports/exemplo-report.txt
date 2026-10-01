@@ -1,0 +1,56 @@
+==================================================
+           LINUX SECURITY AUDIT
+==================================================
+
+Projeto:
+Linux System Manager
+
+Autor:
+Pedro
+
+Objetivo:
+Realizar uma auditoria básica de um sistema Linux,
+utilizando comandos nativos do sistema operacional.
+
+==================================================
+INFORMAÇÕES COLETADAS
+==================================================
+
+[+] Usuário atual
+[+] Hostname
+[+] Sistema operacional
+[+] Kernel
+[+] Espaço em disco
+[+] Memória RAM
+[+] Processos ativos
+[+] Usuários cadastrados
+[+] Grupos do usuário
+[+] Portas em escuta
+[+] Arquivos executáveis
+
+==================================================
+COMANDOS UTILIZADOS
+==================================================
+
+whoami
+hostname
+uname
+df
+free
+ps
+groups
+ss
+find
+
+==================================================
+RESULTADO
+==================================================
+
+A auditoria foi executada com sucesso.
+
+O relatório permite visualizar informações
+importantes sobre o estado atual do sistema Linux.
+
+==================================================
+FIM DO RELATÓRIO
+==================================================
